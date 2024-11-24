@@ -1,0 +1,2 @@
+export QT_QPA_PLATFORM=offscreen
+- 이미지 저장 시 GUI사용 안 할 생각
